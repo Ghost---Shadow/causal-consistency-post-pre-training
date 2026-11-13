@@ -4,9 +4,9 @@ For the person (or agent) who starts the experiments in this repository.
 
 ## 1. Read this first
 
-**Nothing is tested.** The idea is from 2021. It exists as two slide decks, one blog post and one Claude skill. This repository starts empty, apart from this file, the README and a copy of the skill.
+**Nothing is tested.** The idea is from 2021. It exists as one slide deck, one blog post and one Claude skill. This repository starts empty, apart from this file, the README and a copy of the skill.
 
-The one piece of "evidence" is two playground examples from the original deck. Both can be position bias (section 3, item 1). Do not build on them before experiment E0.
+The one piece of "evidence" is two playground examples from the author's early notes. Both can be position bias (section 3, item 1). Do not build on them before experiment E0.
 
 ## 2. The idea in ten lines
 
@@ -95,8 +95,7 @@ This comes first. It decides if there is a signal to train on.
 
 | Item | Location |
 |---|---|
-| 2026 slide deck | https://docs.google.com/presentation/d/1gSwNj3VmGG-11UbirovTkRNc0zRZEkNEETYd88vZfYs/edit?usp=sharing |
-| Original slide deck | https://docs.google.com/presentation/d/1QZony2o_EFzHmStWyfw4Ivyu5-OQvMuOY8ullP1i52s/edit?usp=sharing |
+| Slide deck | https://docs.google.com/presentation/d/1gSwNj3VmGG-11UbirovTkRNc0zRZEkNEETYd88vZfYs/edit?usp=sharing |
 | Blog post | https://ad-absurdum.me/blog/causal-consistency-training |
 | Skill (gist) | https://gist.github.com/Ghost---Shadow/409687db6d711a9b9a09417fe30852cc |
 | Paper notes, 9 files | `C:\Users\soura\Desktop\Dump\digest\Consistency\` |
@@ -116,7 +115,7 @@ The paper notes were written mostly from automatic summaries of the papers. Chec
 
 ## 7. A note on the date
 
-The author dates the idea to 2021. One example in the original deck quotes a news line from December 2022, so that example was added later.
+The author dates the idea to 2021. One example in the early notes quotes a news line from December 2022, so that example was added later.
 
 ## 8. After E0 to E4
 

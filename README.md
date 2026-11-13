@@ -9,8 +9,7 @@ A training stage that runs after pre-training and asks a language model to agree
 - [`hand-off.md`](hand-off.md): the idea, the possible errata and the experiment plan
 - [`skill/why-therefore/SKILL.md`](skill/why-therefore/SKILL.md): an in-context form of the same cycle, as a Claude skill (also untested)
 - Blog post: https://ad-absurdum.me/blog/causal-consistency-training
-- Slides (2026): https://docs.google.com/presentation/d/1gSwNj3VmGG-11UbirovTkRNc0zRZEkNEETYd88vZfYs/edit?usp=sharing
-- Slides (original): https://docs.google.com/presentation/d/1QZony2o_EFzHmStWyfw4Ivyu5-OQvMuOY8ullP1i52s/edit?usp=sharing
+- Slides: https://docs.google.com/presentation/d/1gSwNj3VmGG-11UbirovTkRNc0zRZEkNEETYd88vZfYs/edit?usp=sharing
 - [`future-work.md`](future-work.md): other cycles, two-path (commutative) objectives and eight more graph shapes, each with the dataset that could benefit most
 
 ## Citation
