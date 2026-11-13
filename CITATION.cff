@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this idea or these notes, please cite them as below."
+type: software
+title: "Causal-consistency post-pre-training objective"
+abstract: "An untested proposal for a training stage after pre-training, in which a language model is trained to agree with itself across two computations, for example a why / therefore cycle."
+authors:
+  - family-names: Nanda
+    given-names: Souradeep
+repository-code: "https://github.com/Ghost---Shadow/causal-consistency-post-pre-training"
+url: "https://ad-absurdum.me/blog/causal-consistency-training"
+license: MIT
+date-released: "2026-11-13"
+keywords:
+  - post-pre-training
+  - self-consistency
+  - cycle consistency
+  - language models

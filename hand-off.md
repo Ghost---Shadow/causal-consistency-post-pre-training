@@ -117,3 +117,7 @@ The paper notes were written mostly from automatic summaries of the papers. Chec
 ## 7. A note on the date
 
 The author dates the idea to 2021. One example in the original deck quotes a news line from December 2022, so that example was added later.
+
+## 8. After E0 to E4
+
+[`future-work.md`](future-work.md) (13 November 2026) makes the idea more general: other cycles, two-path objectives and eight more graph shapes, with a candidate dataset for each. It is also untested. Do not start it before E0.
