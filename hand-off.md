@@ -4,9 +4,9 @@ For the person (or agent) who starts the experiments in this repository.
 
 ## 1. Read this first
 
-**Nothing is tested.** The idea is from 2021. It exists as one slide deck, one blog post and one Claude skill. This repository starts empty, apart from this file, the README and a copy of the skill.
+**Nothing is tested.** The idea exists as one slide deck, one blog post and one Claude skill. This repository starts empty, apart from this file, the README and a copy of the skill.
 
-The one piece of "evidence" is two playground examples from the author's early notes. Both can be position bias (section 3, item 1). Do not build on them before experiment E0.
+The one piece of "evidence" is two playground examples. Both can be position bias (section 3, item 1). Do not build on them before experiment E0.
 
 ## 2. The idea in ten lines
 
@@ -28,7 +28,7 @@ In the evidence:
 
 1. **Position bias.** In both playground examples the model picked the first option in the list. That alone can explain the two failures.
 2. **Sampling noise.** Two different answers about a favourite president can come from sampling at a non-zero temperature. They do not prove two beliefs.
-3. **Earlier work.** ATOMIC and COMET (2019) generate "intent" and "effect" relations. Abductive NLI (2020) and round-trip consistency for question answering (2019) are also before 2021.
+3. **Earlier work.** ATOMIC and COMET (2019) generate "intent" and "effect" relations. Abductive NLI (2020) and round-trip consistency for question answering (2019) are older than this idea.
 4. **A special case.** Repeated "why" converges in the Three Little Pigs because there is one character with one motive. In general the chains branch, loop, or do not end.
 
 In the objective:
@@ -113,10 +113,6 @@ Closest published work, with what each one lacks:
 
 The paper notes were written mostly from automatic summaries of the papers. Check a number against the paper before you cite it.
 
-## 7. A note on the date
-
-The author dates the idea to 2021. One example in the early notes quotes a news line from December 2022, so that example was added later.
-
-## 8. After E0 to E4
+## 7. After E0 to E4
 
 [`future-work.md`](future-work.md) (13 November 2026) makes the idea more general: other cycles, two-path objectives and eight more graph shapes, with a candidate dataset for each. It is also untested. Do not start it before E0.

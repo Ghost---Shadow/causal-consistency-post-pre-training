@@ -22,7 +22,7 @@ GitHub shows a "Cite this repository" button from [`CITATION.cff`](CITATION.cff)
   title        = {Causal-consistency post-pre-training objective},
   year         = {2026},
   howpublished = {\url{https://github.com/Ghost---Shadow/causal-consistency-post-pre-training}},
-  note         = {Untested proposal. The idea is from 2021.}
+  note         = {Untested proposal.}
 }
 ```
 
@@ -31,7 +31,7 @@ GitHub shows a "Cite this repository" button from [`CITATION.cff`](CITATION.cff)
 - **Nothing here is tested.** No model was trained and no benchmark was run. Each claim about a benefit is a hypothesis.
 - **The dataset columns are guesses.** They show where to look first. They are not predictions with evidence.
 - **The related work is from memory.** The paper names, years and findings were not checked against the papers, and no full literature search was made. Some of these ideas could already be published. Search before you claim novelty, and I claim no priority.
-- **The text was written with an AI assistant.** The 2021 idea and the direction of the discussion are mine. The 2026 notes, tables and experiment plans were drafted with Claude and I have not verified each line.
+- **The text was written with an AI assistant.** The idea and the direction of the discussion are mine. The notes, tables and experiment plans were drafted with Claude and I have not verified each line.
 - **The names of the graph shapes are an informal grouping.** They are not standard terms from a paper.
 - **The skill is untested too.** It can make a model state causes that are false but sound correct.
 - **This is personal work.** It does not represent an employer or a university.
